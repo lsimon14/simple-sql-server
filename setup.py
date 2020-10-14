@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name='simple-sql-server',
-    version='0.0.1',
+    version='0.0.2',
     author='Luke Simon',
     description='Python package to perform basic SQL Server functions',
     long_description=long_description,

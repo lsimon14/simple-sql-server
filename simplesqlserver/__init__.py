@@ -6,7 +6,7 @@ import pyodbc
 
 # pylint: disable = c-extension-no-member
 
-class Client:
+class SqlServerClient:
     """Client to connect to SQL Server"""
     def __init__(self, server, username, password, database=None):
         self.driver = '{ODBC Driver 17 for SQL Server}'
