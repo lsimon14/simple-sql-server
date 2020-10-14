@@ -1,2 +1,2 @@
-# sql-server-python-client
-basic client for connecting to sql server and executiin queries, jobs, and stored procedures
+# simple-sql-server
+simple client for connecting to sql server and executing queries, jobs, and stored procedures
